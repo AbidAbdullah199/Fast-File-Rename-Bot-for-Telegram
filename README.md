@@ -2,8 +2,11 @@
 
 ![FastRenameBot](https://graph.org/file/d0d481c3fc0a838e03448.jpg)
 
-**Demo Bot**
 
+
+
+**Demo Bot**</br>
+<a href="https://t.me/FileRename_Questbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 **Variables**
 
@@ -23,7 +26,7 @@
 
 
 ### Support Group
-<a href="[https://t.me/+A_MppwLm9mg1Y2Rl]"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/+A_MppwLm9mg1Y2Rl"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ### Bot Commands
