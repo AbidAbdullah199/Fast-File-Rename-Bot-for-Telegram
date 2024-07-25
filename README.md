@@ -22,7 +22,7 @@
 
 **Fast Deployment**
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://github.com/AbidAbdullah199/Fast-File-Rename-Bot-for-Telegram/tree/main&name=fast-rename-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/AbidAbdullah199/Fast-File-Rename-Bot-for-Telegram&branch=main&name=filerenamebot)
 
 
 ### Support Group
