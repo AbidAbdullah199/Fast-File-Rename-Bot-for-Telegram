@@ -2,6 +2,9 @@
 
 ![FastRenameBot](https://graph.org/file/d0d481c3fc0a838e03448.jpg)
 
+**Demo Bot**
+
+
 **Variables**
 
 *`BOT_TOKEN` - Get Token from BotFather.</br>
@@ -17,6 +20,11 @@
 **Fast Deployment**
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://github.com/AbidAbdullah199/Fast-File-Rename-Bot-for-Telegram/tree/main&name=fast-rename-bot)
+
+
+### Support Group
+<a href="[https://t.me/+A_MppwLm9mg1Y2Rl]"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
 
 ### Bot Commands
 
@@ -39,7 +47,6 @@ restart - To restart the bot [FOR ADMINS USE ONLY]
 broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
 status - Check bot status [FOR ADMINS USE ONLY].
 ```
-
 
 **Channals**
 - [Creator](https://t.me/abidabdullah199)
