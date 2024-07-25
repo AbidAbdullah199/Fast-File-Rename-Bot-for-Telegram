@@ -15,7 +15,37 @@
 *`START_PIC` - Get it from https://t.me/vTelegraphBot. `Optional`</br>
 
 **Fast Deployment**
-<p><br><a target="/blank" href="https:app.lkoyeb.com/deploy?type=git&repository=https://github.com/AbidAbdullah199/Fast-File-Rename-Bot-for-Telegram/tree/main&name=fast-rename-bot"><img src="https:/www.koyeb.com/static/image/deploy/button.svg" alt="Deploy"></a></p>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://github.com/AbidAbdullah199/Fast-File-Rename-Bot-for-Telegram/tree/main&name=fast-rename-bot)
+
+### Bot Commands
+
+```
+start - Check if the bot is running.
+viewthumb - To view current thumbnail.
+delthumb - To delete current thumbnail.
+set_caption - set a custom caption.
+see_caption - see your custom caption.
+del_caption - delete custom caption.
+ping - To check bot ping.
+donate - To support developer.
+set_prefix - Set Your Prefix
+see_prefix - See Your Prefix
+del_prefix - Delete Your Prefix
+set_suffix - Set Your Suffix
+see_suffix - See Your Suffix
+del_suffix - Delete Your Suffix
+restart - To restart the bot [FOR ADMINS USE ONLY]
+broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
+status - Check bot status [FOR ADMINS USE ONLY].
+```
+
+
+**Channals**
+- [Creator](https://t.me/abidabdullah199)
+- [NovaFlicker](https://t.me/NovaFlicker)
+- [Support](https://t.me/+A_MppwLm9mg1Y2RI)
+
 
 
 
