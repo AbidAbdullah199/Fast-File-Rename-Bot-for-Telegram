@@ -44,7 +44,7 @@ status - Check bot status [FOR ADMINS USE ONLY].
 **Channals**
 - [Creator](https://t.me/abidabdullah199)
 - [NovaFlicker](https://t.me/NovaFlicker)
-- [Support](https://t.me/+A_MppwLm9mg1Y2RI)
+- [Support](https://t.me/+A_MppwLm9mg1Y2Rl)
 
 
 
