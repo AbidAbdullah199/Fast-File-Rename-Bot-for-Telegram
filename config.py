@@ -48,7 +48,7 @@ You Can Add Custom Thumbnail Simply By Sending A Photo To Me....
 /viewthumb - Use This Command To See Your Thumbnail
 /delthumb - Use This Command To Delete Your Thumbnail"""
 
-    CAPTION_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴ</u></b>
+    CAPTION_TXT = """<b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴ</u></b>
     
 /set_caption - Use This Command To Set Your Caption
 /see_caption - Use This Command To See Your Caption
