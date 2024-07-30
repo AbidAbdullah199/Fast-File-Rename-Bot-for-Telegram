@@ -45,16 +45,16 @@ class Txt(object):
     HELP_TXT = """
 <b><u>How To Set Thumbnail</u></b>
   
-➪ /start - Start The Bot And Send Any Photo To Automatically Set Thumbnail.
-➪ /del_thumb - Use This Command To Delete Your Old Thumbnail.
-➪ /view_thumb - Use This Command To View Your Current Thumbnail.
+/start - Start The Bot And Send Any Photo To Automatically Set Thumbnail.
+/del_thumb - Use This Command To Delete Your Old Thumbnail.
+/view_thumb - Use This Command To View Your Current Thumbnail.
 
 <b><u>How To Set Custom Caption</u></b>
 
-➪ /set_caption - Use This Command To Set A Custom Caption
-➪ /see_caption - Use This Command To View Your Custom Caption
-➪ /del_caption - Use This Command To Delete Your Custom Caption
-➪ Example - <code>/set_caption Name ➠ : {filename}
+/set_caption - Use This Command To Set A Custom Caption
+/see_caption - Use This Command To View Your Custom Caption
+/del_caption - Use This Command To Delete Your Custom Caption
+Example - <code>/set_caption Name ➠ : {filename}
 
 """
 
@@ -64,7 +64,7 @@ class Txt(object):
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
-┣⪼ 🥺 joine Plz: @AnimeQuestX
+┣⪼ 🥺 Join: @AnimeQuestX
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 
     DONATE_TXT = """
