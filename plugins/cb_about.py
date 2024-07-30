@@ -10,11 +10,11 @@ async def start(client, message):
     user = message.from_user
     await AbidAbdullah199.add_user(client, message)                
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton('○ Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ', url='https://t.me/AnimeQuestX'),
-        InlineKeyboardButton('○ Aɴɪᴍᴇ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
-        [InlineKeyboardButton('○ Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton('○ Hᴇʟᴘ', callback_data='help')],
-        [InlineKeyboardButton("○ Oᴡɴᴇʀ", url='https://t.me/abidabdullah199')]
+        [InlineKeyboardButton('Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ', url='https://t.me/AnimeQuestX'),
+        InlineKeyboardButton('Aɴɪᴍᴇ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
+        [InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
+        InlineKeyboardButton('Hᴇʟᴘ', callback_data='help')],
+        [InlineKeyboardButton("Oᴡɴᴇʀ", url='https://t.me/abidabdullah199')]
     ])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
@@ -30,11 +30,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([
-                [InlineKeyboardButton('○ Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ', url='https://t.me/AnimeQuestX'),
-                InlineKeyboardButton('○ Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
-                [InlineKeyboardButton('○ Aʙᴏᴜᴛ', callback_data='about'),
-                InlineKeyboardButton('○ Hᴇʟᴘ', callback_data='help')],
-                [InlineKeyboardButton("○ Oᴡɴᴇʀ", url='https://t.me/abidabdullah199')]
+                [InlineKeyboardButton('Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ', url='https://t.me/AnimeQuestX'),
+                InlineKeyboardButton('Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
+                [InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
+                InlineKeyboardButton('Hᴇʟᴘ', callback_data='help')],
+                [InlineKeyboardButton("Oᴡɴᴇʀ", url='https://t.me/abidabdullah199')]
             ])
         )
     elif data == "help":
