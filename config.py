@@ -54,7 +54,7 @@ class Txt(object):
 /set_caption - Use This Command To Set A Custom Caption
 /see_caption - Use This Command To View Your Custom Caption
 /del_caption - Use This Command To Delete Your Custom Caption
-Example - <code>/set_caption Name ➠ : {filename}
+Example - <code>/set_caption Name : {filename}
 
 """
 
