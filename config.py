@@ -32,24 +32,24 @@ class Txt(object):
 
     ABOUT_TXT = """
 
-<b>NAME</b> : {File Rename Fast}
-<b>OWNER</b> : <a href=https://t.me/abidabdullah199>Click Here</a> 
-<b>CHANNAL</b> : <a href=https://t.me/AnimeQuestX>Click Here</a>
-<b>ONGOING ANIME</b> : <a href=https://t.me/OngoingAnimeQuest>Click Here</a>
-<b>ANIME CHANNAL</b> : <a href=https://t.me/AnimeQuestX>Click Here</a>
-<b>SUPPORT</b> : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Click Here</a>
-<b>GITHUB</b> : <a href=https://github.com/AbidAbdullah199>Click Here</a></b>     
+NAME : {File Rename Fast}
+OWNER : <a href=https://t.me/abidabdullah199>Click Here</a> 
+CHANNAL : <a href=https://t.me/AnimeQuestX>Click Here</a>
+ONGOING ANIME : <a href=https://t.me/OngoingAnimeQuest>Click Here</a>
+ANIME CHANNAL : <a href=https://t.me/AnimeQuestX>Click Here</a>
+SUPPORT : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Click Here</a>
+GITHUB : <a href=https://github.com/AbidAbdullah199>Click Here</a></b>     
 
 """
 
     HELP_TXT = """
-<b><u>How To Set Thumbnail</u></b>
+<u>How To Set Thumbnail</u>
   
 /start - Start The Bot And Send Any Photo To Automatically Set Thumbnail.
 /del_thumb - Use This Command To Delete Your Old Thumbnail.
 /view_thumb - Use This Command To View Your Current Thumbnail.
 
-<b><u>How To Set Custom Caption</u></b>
+<u>How To Set Custom Caption</u>
 
 /set_caption - Use This Command To Set A Custom Caption
 /see_caption - Use This Command To View Your Custom Caption
@@ -68,5 +68,5 @@ Example - <code>/set_caption Name : {filename}
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 
     DONATE_TXT = """
-<b>Donate Your Supports! ❤️</b>
+Donate Your Supports! ❤️
 """
