@@ -33,26 +33,26 @@ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴ�
 
     
     ABOUT_TXT = f"""
-<b>Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
-<b>Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
-<b>Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
-<b>Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
-<b>Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>
+<b>Channal :</b> <a href='https://t.me/AnimeQuestX'>Join Now</a>
+<b>Hindi :</b> <a href='https://t.me/AnimeQuestHindi'>Join Now</a>
+<b>Ongoing Channal :</b> <a href='https://t.me/OngoingAnimeQuest'>Join Now</a>
+<b>Discussion Channal:</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Join Now</a>
+<b>Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Monkey D Luffy</a>
 """
 
     
     THUMBNAIL_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
     
-⦿ You Can Add Custom Thumbnail Simply By Sending A Photo To Me....
+You Can Add Custom Thumbnail Simply By Sending A Photo To Me....
     
-⦿ /viewthumb - Use This Command To See Your Thumbnail
-⦿ /delthumb - Use This Command To Delete Your Thumbnail"""
+/viewthumb - Use This Command To See Your Thumbnail
+/delthumb - Use This Command To Delete Your Thumbnail"""
 
     CAPTION_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴ</u></b>
     
-⦿ /set_caption - Use This Command To Set Your Caption
-⦿ /see_caption - Use This Command To See Your Caption
-⦿ /del_caption - Use This Command To Delete Your Caption"""
+/set_caption - Use This Command To Set Your Caption
+/see_caption - Use This Command To See Your Caption
+/del_caption - Use This Command To Delete Your Caption"""
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
@@ -64,9 +64,9 @@ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴ�
 ╰━━━━━━━━━━━━━━━ </b>"""
     
     
-    DONATE_TXT = """<b>Dᴏɴᴀᴛᴇ Tʜᴏᴏsᴇ Wʜᴏ Rᴇᴀʟʟʏ Nᴇᴇᴅ Iᴛ ❤️</b>
+    DONATE_TXT = """<b>Donate Me Your Support❤️</b>
     
  """
     
-    HELP_TXT = """Iɴʙᴏx Mᴇ @abidabdullah199 """
+    HELP_TXT = """Inbox If You Have Business @abidabdullah199 """
 
