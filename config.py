@@ -33,11 +33,11 @@ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴ�
 
     
     ABOUT_TXT = f"""
-<b>○ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
-<b>○ Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>
+<b>Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
+<b>Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
+<b>Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
+<b>Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
+<b>Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>
 """
 
     
