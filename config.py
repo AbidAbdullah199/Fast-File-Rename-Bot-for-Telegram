@@ -41,7 +41,7 @@ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴ�
 """
 
     
-    THUMBNAIL_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
+    THUMBNAIL_TXT = """<b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
     
 You Can Add Custom Thumbnail Simply By Sending A Photo To Me....
     
