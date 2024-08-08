@@ -32,8 +32,6 @@ class Txt(object):
 
     ABOUT_TXT = """
 
-NAME : FileRenameBot
-OWNER : MONKEY D LUFFY
 CHANNAL : <a href=https://t.me/AnimeQuestX>Click Here</a>
 ONGOING ANIME : <a href=https://t.me/OngoingAnimeQuest>Click Here</a>
 ANIME CHANNAL : <a href=https://t.me/AnimeQuestX>Click Here</a>
